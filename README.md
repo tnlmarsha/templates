@@ -7,8 +7,9 @@ Collecting useful templates
  -->
 Here I am, just minding my business, when along comes a template, capturing my fancy. I be like:
 
+<img src="lucky.png" width="600" height="600">
 
-![]([lucky.jpg|width=600px])
+<!-- ![]([lucky.jpg|width=600px]) -->
 <!-- 
 ## Installation
 
