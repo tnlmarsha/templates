@@ -7,7 +7,8 @@ Collecting useful templates
  -->
 Here I am, just minding my business, when along comes a template, capturing my fancy. I be like:
 
-![](lucky.jpg | width=600)
+
+![](lucky.jpg | width=600px)
 <!-- 
 ## Installation
 
