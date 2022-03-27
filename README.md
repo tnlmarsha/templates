@@ -7,7 +7,7 @@ Collecting useful templates
  -->
 Here I am, just minding my business, when along comes a template, capturing my fancy. I be like:
 
-<img src="https://github.com/tnlmarsha/templates/blob/main/lucky.jpg" width="600" height="750"/>
+<img src="https://github.com/tnlmarsha/templates/blob/main/lucky.jpg" width="750" height="600"/>
 <!-- <img src="lucky.png" width="600" height="600"/> -->
 
 <!-- ![]([lucky.jpg|width=600px]) -->
