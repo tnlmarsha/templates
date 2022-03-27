@@ -5,7 +5,7 @@ Collecting useful templates
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
  -->
-Here I am, just minding my business, when along comes a template, capturing my fancy.
+Here I am, just minding my business, when along comes a template, capturing my fancy. I be like:
 
 ![](lucky.jpg)
 <!-- 
